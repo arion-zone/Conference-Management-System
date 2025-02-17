@@ -3,7 +3,6 @@
 This is a Conference Management System built using ASP.NET Core and SQLite.
 
 ## Features
-- User registration and authentication
 - Conference viewing and registration
 - Admin functionalities: Add, edit, and delete conferences
 
